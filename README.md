@@ -1,1 +1,1 @@
-All data and code needed to reproduce the figures in the article _"Flow recirculation and restriction in a $\mathrm{CO_2}$ microwave plasma, inferred from in-situ Raman scattering"_ are be published here once accepted.
+All data and code needed to reproduce the figures in the article _"Flow recirculation and restriction in a CO2 microwave plasma, inferred from in-situ Raman scattering"_ are be published here once accepted.

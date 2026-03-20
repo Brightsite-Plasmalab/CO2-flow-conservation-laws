@@ -43,8 +43,8 @@ To cite the software and data in this repository:
 DOI: [10.5281/zenodo.19128415](http://doi.org/10.5281/zenodo.19128415)  
 Bibtex:
 ```bibtex
-@software{martijn_ruijzendaal_2026_19128415,
-  author       = {Martijn Ruijzendaal},
+@software{ruijzendaal_2026_19128415,
+  author       = {Ruijzendaal, Martijn Daan},
   title        = {CO₂ Raman data and software for flow conservation laws},
   month        = mar,
   year         = 2026,
@@ -62,7 +62,7 @@ Bibtex:
 @article{Ruijzendaal2026,
   title = {Flow recirculation and restriction in a CO₂ microwave plasma inferred from in-situ Raman scattering},
   ISSN = {1361-6595},
-  url = {http://dx.doi.org/10.1088/1361-6595/ae4d87},
+  url = {http://doi.org/10.1088/1361-6595/ae4d87},
   DOI = {10.1088/1361-6595/ae4d87},
   journal = {Plasma Sources Science and Technology},
   publisher = {IOP Publishing},

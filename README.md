@@ -2,12 +2,15 @@
 
 This repository contains the script necessary to produce the figures in the publication M. D. Ruijzendaal *et al.*, "Flow recirculation and restriction in a CO₂ microwave plasma inferred from in-situ Raman scattering," *Plasma Sources Sci. Technol.*, 2026, doi: [10.1088/1361-6595/ae4d87](http://dx.doi.org/10.1088/1361-6595/ae4d87).
 
-- `parse_data_and_fit.ipynb` for using the output data of Alex (temperatures and compositions) and fitting mass- and heat flows to it.
-- `enthalpy_profiles.ipynb` for plotting the enthalpy profiles.
+Contents:
+- `parse_data_and_fit.ipynb` for using the temperature and composition data of van de Steeg *et al.* ([10.1021/acsenergylett.1c01206](https://doi.org/10.1021/acsenergylett.1c01206)) and fitting mass- and heat flows to it.
+- `radial_profiles_temperature_composition.ipynb` for plotting radial profiles of composition and specific enthalpy.
+- `compare_flowrates.ipynb` for comparing the flowrates at different positions and flow conditions.
+- `radiative_loss.ipynb` for calculating the radiative loss from the plasma.
 
 
 ## Installation
-Recommended Python version: 3.13.7
+Tested on Python version 3.13.7.
 
 1. Optional: create a virtual environment and activate it:  
   ```bash

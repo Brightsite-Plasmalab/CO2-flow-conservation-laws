@@ -40,7 +40,7 @@ Then run `radial_profiles_temperature_composition.ipynb` to plot the enthalpy pr
 ## Citation
 
 To cite the software and data in this repository:  
-DOI: [10.1088/1361-6595/ae4d87](http://dx.doi.org/https://doi.org/10.1088/1361-6595/ae4d87)  
+DOI: [10.5281/zenodo.19128415](http://doi.org/10.5281/zenodo.19128415)  
 Bibtex:
 ```bibtex
 @software{martijn_ruijzendaal_2026_19128415,
@@ -56,7 +56,7 @@ Bibtex:
 ```
 
 To cite the article associated with this software:  
-DOI: [10.1088/1361-6595/ae4d87](http://dx.doi.org/10.1088/1361-6595/ae4d87)  
+DOI: [10.1088/1361-6595/ae4d87](http://doi.org/10.1088/1361-6595/ae4d87)  
 Bibtex:  
 ```bibtex
 @article{Ruijzendaal2026,

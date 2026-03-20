@@ -1,6 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19128415.svg)](https://doi.org/10.5281/zenodo.19128415)
+[![python](https://img.shields.io/badge/Python-3.13.7-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![mdr orcid](https://img.shields.io/badge/ORCID-0009--0008--1124--1420-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1124-1420)
+[![mdr github](https://img.shields.io/badge/GitHub-mruijzendaal-888.svg?style=flat&logo=github)](https://github.com/mruijzendaal)
+
 # CO₂ Raman data and software for flow conservation laws 
 
-This repository contains the script necessary to produce the figures in the publication M. D. Ruijzendaal *et al.*, "Flow recirculation and restriction in a CO₂ microwave plasma inferred from in-situ Raman scattering," *Plasma Sources Sci. Technol.*, 2026, doi: [10.1088/1361-6595/ae4d87](http://dx.doi.org/10.1088/1361-6595/ae4d87).
+This repository contains the script necessary to produce the figures in the publication M. D. Ruijzendaal *et al.*, "Flow recirculation and restriction in a CO₂ microwave plasma inferred from in-situ Raman scattering," *Plasma Sources Sci. Technol.*, 2026, [10.1088/1361-6595/ae4d87](http://dx.doi.org/10.1088/1361-6595/ae4d87).
 
 Contents:
 - `parse_data_and_fit.ipynb` for using the temperature and composition data of van de Steeg *et al.* ([10.1021/acsenergylett.1c01206](https://doi.org/10.1021/acsenergylett.1c01206)) and fitting mass- and heat flows to it.
@@ -33,7 +39,23 @@ Then run `radial_profiles_temperature_composition.ipynb` to plot the enthalpy pr
 
 ## Citation
 
-Please cite the following article when using the data or software in this repository:  
+To cite the software and data in this repository:  
+DOI: [10.1088/1361-6595/ae4d87](http://dx.doi.org/https://doi.org/10.1088/1361-6595/ae4d87)  
+Bibtex:
+```bibtex
+@software{martijn_ruijzendaal_2026_19128415,
+  author       = {Martijn Ruijzendaal},
+  title        = {CO₂ Raman data and software for flow conservation laws},
+  month        = mar,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v3.0},
+  doi          = {10.5281/zenodo.19128415},
+  url          = {https://doi.org/10.5281/zenodo.19128415},
+}
+```
+
+To cite the article associated with this software:  
 DOI: [10.1088/1361-6595/ae4d87](http://dx.doi.org/10.1088/1361-6595/ae4d87)  
 Bibtex:  
 ```bibtex
@@ -49,3 +71,4 @@ Bibtex:
   month = mar 
 }
 ```
+
